@@ -1,0 +1,21 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    match /rooms/{roomId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated();
+      allow update: if isAuthenticated()
+        && resource.data.creatorId == request.auth.uid;
+
+      match /votes/{voteId} {
+        allow read: if isAuthenticated();
+        allow write: if isAuthenticated()
+          && voteId == request.auth.uid;
+      }
+    }
+  }
+}

@@ -1,0 +1,548 @@
+[
+  {
+    "id": "twosome-1",
+    "franchiseId": "twosome",
+    "name": "생크림 말차 카페 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10193208_01_01_20260226062332.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-2",
+    "franchiseId": "twosome",
+    "name": "생크림 카페 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10193207_01_01_20260226092515.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-3",
+    "franchiseId": "twosome",
+    "name": "생크림 아메리카노",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10193206_01_01_20260226093042.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-4",
+    "franchiseId": "twosome",
+    "name": "피스타치오 초콜릿 모카",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10193168_01_01_20260209070207.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-5",
+    "franchiseId": "twosome",
+    "name": "디카페인 콜드브루 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10192140_01_01_20250711110253.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-6",
+    "franchiseId": "twosome",
+    "name": "바닐라빈 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10192139_01_01_20250711105917.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-7",
+    "franchiseId": "twosome",
+    "name": "아메리카노",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100001_01_01_20210611.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-8",
+    "franchiseId": "twosome",
+    "name": "카페 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100002_01_01_20210611.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-9",
+    "franchiseId": "twosome",
+    "name": "카푸치노",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/174.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-10",
+    "franchiseId": "twosome",
+    "name": "바닐라 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/105.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-11",
+    "franchiseId": "twosome",
+    "name": "카라멜 마키아또",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100007_01_01_20210614.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-12",
+    "franchiseId": "twosome",
+    "name": "카페 모카",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100005_01_01_20210611.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-13",
+    "franchiseId": "twosome",
+    "name": "바닐라빈 콜드브루 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10192129_01_01_20250527111922.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-14",
+    "franchiseId": "twosome",
+    "name": "디카페인 콜드브루",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191489_01_01_20240717035654.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-15",
+    "franchiseId": "twosome",
+    "name": "콜드브루",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/123.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-16",
+    "franchiseId": "twosome",
+    "name": "콜드브루 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/124.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-17",
+    "franchiseId": "twosome",
+    "name": "애플 아샷추",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10192110_01_01_20250901102229.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-18",
+    "franchiseId": "twosome",
+    "name": "민트 아샷추",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10192109_01_01_20250901102221.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-19",
+    "franchiseId": "twosome",
+    "name": "피치 아샷추",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191950_01_01_20250901102211.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-20",
+    "franchiseId": "twosome",
+    "name": "바나나 샷 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191981_01_01_20240924093738.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-21",
+    "franchiseId": "twosome",
+    "name": "바나나 샷 아메리카노",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191980_01_01_20240924093653.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-22",
+    "franchiseId": "twosome",
+    "name": "롱 블랙",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100008_01_01_20210611.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-23",
+    "franchiseId": "twosome",
+    "name": "숏 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100009_01_01_20210611.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-24",
+    "franchiseId": "twosome",
+    "name": "피넛 헤이즐넛 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10192027_01_01_20241230085911.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-25",
+    "franchiseId": "twosome",
+    "name": "달고나 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/120.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-26",
+    "franchiseId": "twosome",
+    "name": "스페니쉬 연유 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10100017_01_01_20250318030046.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-27",
+    "franchiseId": "twosome",
+    "name": "에스프레소",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/114.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-28",
+    "franchiseId": "twosome",
+    "name": "오트 화이트 라떼",
+    "category": "커피",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10191108_01_01_20210215.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-29",
+    "franchiseId": "twosome",
+    "name": "딸기초코 모나카 눈꽃컵",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302871_01_01_20260317051502.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-30",
+    "franchiseId": "twosome",
+    "name": "우유 모나카 눈꽃컵",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302870_01_01_20260317051436.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-31",
+    "franchiseId": "twosome",
+    "name": "애플망고 눈꽃컵",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302869_01_01_20260317051354.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-32",
+    "franchiseId": "twosome",
+    "name": "로얄 밀크티 쉐이크",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302854_01_01_20260116044139.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-33",
+    "franchiseId": "twosome",
+    "name": "피스타치오 초콜릿 젤라또 쉐이크",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302861_01_01_20260209070509.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-34",
+    "franchiseId": "twosome",
+    "name": "딸기 바나나 쉐이크",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302775_01_01_20251211114016.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-35",
+    "franchiseId": "twosome",
+    "name": "딸기 밀크 쉐이크",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302774_01_01_20251211113627.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-36",
+    "franchiseId": "twosome",
+    "name": "생딸기 듬뿍 주스",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302773_01_01_20251211112347.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-37",
+    "franchiseId": "twosome",
+    "name": "딸기 듬뿍 라떼",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302772_01_01_20251211111330.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-38",
+    "franchiseId": "twosome",
+    "name": "구운 밤 라떼",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302717_01_01_20251226103250.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-39",
+    "franchiseId": "twosome",
+    "name": "스트로베리 초콜릿 라떼",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302716_01_01_20251226103246.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-40",
+    "franchiseId": "twosome",
+    "name": "현미 미숫가루",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302682_01_01_20250926101545.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-41",
+    "franchiseId": "twosome",
+    "name": "꿀 고구마 라떼",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302413_01_01_20250805050254.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-42",
+    "franchiseId": "twosome",
+    "name": "제주 한라봉 주스",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302220_01_01_20250527111757.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-43",
+    "franchiseId": "twosome",
+    "name": "허니 레몬 에이드",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302165_01_01_20231213104909.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-44",
+    "franchiseId": "twosome",
+    "name": "블루베리 요거트 드링크",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/169.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-45",
+    "franchiseId": "twosome",
+    "name": "초콜릿 라떼",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10300036_01_01_20210525.JPG?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-46",
+    "franchiseId": "twosome",
+    "name": "키위 바나나 주스",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/167.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-47",
+    "franchiseId": "twosome",
+    "name": "오렌지 자몽 주스",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/166.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-48",
+    "franchiseId": "twosome",
+    "name": "쿠키 쉐이크",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302336_01_01_20250220080431.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-49",
+    "franchiseId": "twosome",
+    "name": "애플망고 주스",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302240_01_01_20240520113557.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-50",
+    "franchiseId": "twosome",
+    "name": "샤인머스캣 청포도에이드",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10301764_01_01_20210618.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-51",
+    "franchiseId": "twosome",
+    "name": "복숭아에이드",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10301763_01_01_20210618.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-52",
+    "franchiseId": "twosome",
+    "name": "요거트프라페",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/155.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-53",
+    "franchiseId": "twosome",
+    "name": "스트로베리 피치프라페",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/154.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-54",
+    "franchiseId": "twosome",
+    "name": "오렌지에이드",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/163.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-55",
+    "franchiseId": "twosome",
+    "name": "자몽에이드",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/162.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-56",
+    "franchiseId": "twosome",
+    "name": "바닐라 밀크 쉐이크",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10302335_01_01_20250220080426.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-57",
+    "franchiseId": "twosome",
+    "name": "민트 초코프라페",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10301781_01_01_20210817.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-58",
+    "franchiseId": "twosome",
+    "name": "우리 대추 수정과",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201905_01_01_20240813070852.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-59",
+    "franchiseId": "twosome",
+    "name": "우리 쌀 식혜(ICED ONLY)",
+    "category": "음료",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201904_01_01_20240813071058.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-60",
+    "franchiseId": "twosome",
+    "name": "루이보스 시트러스 티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10202268_01_01_20260127114924.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-61",
+    "franchiseId": "twosome",
+    "name": "바닐라빈 루이보스 밀크티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10202267_01_01_20260127114918.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-62",
+    "franchiseId": "twosome",
+    "name": "말차 크림 라떼",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201986_01_01_20250717034625.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-63",
+    "franchiseId": "twosome",
+    "name": "민트 아이스티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201977_01_01_20250415082725.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-64",
+    "franchiseId": "twosome",
+    "name": "애플 아이스티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201978_01_01_20250415082728.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-65",
+    "franchiseId": "twosome",
+    "name": "피치 아이스티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201896_01_01_20250531091118.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-66",
+    "franchiseId": "twosome",
+    "name": "유자 생강차",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201961_01_01_20240904115839.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-67",
+    "franchiseId": "twosome",
+    "name": "오렌지 자몽티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/141.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-68",
+    "franchiseId": "twosome",
+    "name": "유자 레몬티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200031_01_01_20231006045441.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-69",
+    "franchiseId": "twosome",
+    "name": "허니 레몬티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200030_01_01_20210610.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-70",
+    "franchiseId": "twosome",
+    "name": "애플 민트티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200029_01_01_20210610.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-71",
+    "franchiseId": "twosome",
+    "name": "ice버블 그린티 라떼",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200079_01_01_20210118.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-72",
+    "franchiseId": "twosome",
+    "name": "그린티 라떼",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200034_01_01_20210610.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-73",
+    "franchiseId": "twosome",
+    "name": "로얄 밀크티",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200033_01_01_20210610.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-74",
+    "franchiseId": "twosome",
+    "name": "제주 유기농 녹차",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10201605_01_01_20210818.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-75",
+    "franchiseId": "twosome",
+    "name": "그나와 민트",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200028_01_01_20210610.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-76",
+    "franchiseId": "twosome",
+    "name": "얼그레이",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/132.png?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-77",
+    "franchiseId": "twosome",
+    "name": "크림 카라멜",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200026_01_01_20251215111039.jpg?width=276&height=276&q=100"
+  },
+  {
+    "id": "twosome-78",
+    "franchiseId": "twosome",
+    "name": "카모마일",
+    "category": "티/티라떼",
+    "imageUrl": "https://mcdn.twosome.co.kr/menu_image/P_MA_Z_TSPLC_MENU_REG/1000/1000/PITEM/10200025_01_01_20251215110720.jpg?width=276&height=276&q=100"
+  }
+]
