@@ -870,155 +870,169 @@
   {
     "id": "ediya-125",
     "franchiseId": "ediya",
+    "name": "(EX) 머스캣 모히또 에이드",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1721096603111.png"
+  },
+  {
+    "id": "ediya-126",
+    "franchiseId": "ediya",
+    "name": "비타민 주스 애플망고",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1722475731399.png"
+  },
+  {
+    "id": "ediya-127",
+    "franchiseId": "ediya",
+    "name": "비타민 주스 믹스베리",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1722475826757.png"
+  },
+  {
+    "id": "ediya-128",
+    "franchiseId": "ediya",
+    "name": "(L) 토피넛 플랫치노",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1765787846122.png"
+  },
+  {
+    "id": "ediya-129",
+    "franchiseId": "ediya",
+    "name": "(L) 딸기주스",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1754628536587.png"
+  },
+  {
+    "id": "ediya-130",
+    "franchiseId": "ediya",
+    "name": "(EX) 사과당근클렌즈주스",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1754634228211.png"
+  },
+  {
+    "id": "ediya-131",
+    "franchiseId": "ediya",
+    "name": "(EX) 연유 콜드브루",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1647320793322.png"
+  },
+  {
+    "id": "ediya-132",
+    "franchiseId": "ediya",
+    "name": "(L) 망고바나나주스",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1754632571472.png"
+  },
+  {
+    "id": "ediya-133",
+    "franchiseId": "ediya",
     "name": "(EX) HOT 민트 모카",
     "category": "커피",
     "imageUrl": "https://ediya.com/files/menu/IMG_1765778291120.png"
   },
   {
-    "id": "ediya-126",
+    "id": "ediya-134",
+    "franchiseId": "ediya",
+    "name": "(EX) HOT 헤이즐넛 아메리카노",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1756445885828.png"
+  },
+  {
+    "id": "ediya-135",
+    "franchiseId": "ediya",
+    "name": "(EX) HOT 얼그레이",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1671596309362.png"
+  },
+  {
+    "id": "ediya-136",
     "franchiseId": "ediya",
     "name": "(EX) 초콜릿 칩 플랫치노",
     "category": "커피",
     "imageUrl": "https://ediya.com/files/menu/IMG_1765788196213.png"
   },
   {
-    "id": "ediya-127",
+    "id": "ediya-137",
+    "franchiseId": "ediya",
+    "name": "(EX) 에스프레소 쉐이크",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1765791222492.png"
+  },
+  {
+    "id": "ediya-138",
+    "franchiseId": "ediya",
+    "name": "(EX) HOT 레몬차",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1765779762340.png"
+  },
+  {
+    "id": "ediya-139",
+    "franchiseId": "ediya",
+    "name": "(L) HOT 고구마 라떼",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1765783985332.png"
+  },
+  {
+    "id": "ediya-140",
     "franchiseId": "ediya",
     "name": "(EX) 콜드브루",
     "category": "커피",
     "imageUrl": "https://ediya.com/files/menu/IMG_1648685292664.png"
   },
   {
-    "id": "ediya-128",
+    "id": "ediya-141",
     "franchiseId": "ediya",
     "name": "(L) 샹그리아 에이드",
     "category": "커피",
     "imageUrl": "https://ediya.com/files/menu/IMG_1765774751841.png"
   },
   {
-    "id": "ediya-129",
+    "id": "ediya-142",
     "franchiseId": "ediya",
     "name": "(L) 민트 초콜릿칩 플랫치노",
     "category": "커피",
     "imageUrl": "https://ediya.com/files/menu/IMG_1765788293786.png"
   },
   {
-    "id": "ediya-130",
+    "id": "ediya-143",
+    "franchiseId": "ediya",
+    "name": "(EX) HOT 생강차",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1765781167308.png"
+  },
+  {
+    "id": "ediya-144",
+    "franchiseId": "ediya",
+    "name": "(L) HOT 카페 라떼",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1721104952889.png"
+  },
+  {
+    "id": "ediya-145",
+    "franchiseId": "ediya",
+    "name": "(EX) 민트 초콜릿칩 플랫치노",
+    "category": "커피",
+    "imageUrl": "https://ediya.com/files/menu/IMG_1765788605245.png"
+  },
+  {
+    "id": "ediya-146",
     "franchiseId": "ediya",
     "name": "(EX) HOT 페퍼민트",
     "category": "커피",
     "imageUrl": "https://ediya.com/files/menu/IMG_1671595635409.png"
   },
   {
-    "id": "ediya-131",
+    "id": "ediya-147",
     "franchiseId": "ediya",
-    "name": "(EX) 블루베리바나나주스",
+    "name": "(L) ICED 제로슈가 달달커피",
     "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1754633526169.png"
+    "imageUrl": "https://ediya.com/files/menu/IMG_1749106542686.png"
   },
   {
-    "id": "ediya-132",
+    "id": "ediya-148",
     "franchiseId": "ediya",
-    "name": "(EX) ICED 페퍼민트",
+    "name": "(L) HOT 연유 카페 라떼",
     "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1671595852837.png"
-  },
-  {
-    "id": "ediya-133",
-    "franchiseId": "ediya",
-    "name": "(L) 머스캣 모히또 에이드",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1721096519205.png"
-  },
-  {
-    "id": "ediya-134",
-    "franchiseId": "ediya",
-    "name": "(L) HOT 로열 밀크티",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1765783401430.png"
-  },
-  {
-    "id": "ediya-135",
-    "franchiseId": "ediya",
-    "name": "(EX) HOT 로열 밀크티",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1765783620257.png"
-  },
-  {
-    "id": "ediya-136",
-    "franchiseId": "ediya",
-    "name": "(L) HOT 레몬차",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1765779526817.png"
-  },
-  {
-    "id": "ediya-137",
-    "franchiseId": "ediya",
-    "name": "(L) 연유 콜드브루",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1647387558230.png"
-  },
-  {
-    "id": "ediya-138",
-    "franchiseId": "ediya",
-    "name": "(EX) 딸기바나나주스",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1754632445694.png"
-  },
-  {
-    "id": "ediya-139",
-    "franchiseId": "ediya",
-    "name": "(EX) HOT 헤이즐넛 아메리카노",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1756701289614.png"
-  },
-  {
-    "id": "ediya-140",
-    "franchiseId": "ediya",
-    "name": "(EX) ICED 민트 모카",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1765778432655.png"
-  },
-  {
-    "id": "ediya-141",
-    "franchiseId": "ediya",
-    "name": "(L) HOT 얼그레이",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1765775186848.png"
-  },
-  {
-    "id": "ediya-142",
-    "franchiseId": "ediya",
-    "name": "(L) 사과당근클렌즈주스",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1754634077635.png"
-  },
-  {
-    "id": "ediya-143",
-    "franchiseId": "ediya",
-    "name": "(L) ICED 로열 밀크티",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1765783743463.png"
-  },
-  {
-    "id": "ediya-144",
-    "franchiseId": "ediya",
-    "name": "(L) 유자몽 플랫치노",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1765787532816.png"
-  },
-  {
-    "id": "ediya-145",
-    "franchiseId": "ediya",
-    "name": "(L) 콜드브루 라떼",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1647320345410.png"
-  },
-  {
-    "id": "ediya-146",
-    "franchiseId": "ediya",
-    "name": "이디야 콤부차 복숭아 망고",
-    "category": "커피",
-    "imageUrl": "https://ediya.com/files/menu/IMG_1716354699267.png"
+    "imageUrl": "https://ediya.com/files/menu/IMG_1671584792635.png"
   }
 ]
